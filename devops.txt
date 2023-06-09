@@ -1,0 +1,5 @@
+rsync-avh /var/lib/jenkins/workspace/kubernetesproject root@172.31.37.224:/opt
+
+
+
+ansible-playbook /opt/ansible.yml

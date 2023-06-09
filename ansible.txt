@@ -1,0 +1,6 @@
+sudo yum install python3 python3-pip
+
+sudo pip3 install ansible
+
+
+https://unix.stackexchange.com/questions/546578/failed-to-install-ansible-on-centos-8
